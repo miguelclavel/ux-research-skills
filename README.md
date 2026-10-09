@@ -51,6 +51,15 @@ For turning notes into themes, use [research-synthesis](https://github.com/migue
 
 ## Install
 
+As a Claude Code plugin, all eighteen at once. In Claude Code, run:
+
+```
+/plugin marketplace add miguelclavel/claude-skills-for-designers
+/plugin install ux-research-skills@miguelclavel
+```
+
+That marketplace also has the ten [design skills](https://github.com/miguelclavel/claude-skills-for-designers). Or copy only the skills you want:
+
 ```bash
 git clone https://github.com/miguelclavel/ux-research-skills
 cp -R ux-research-skills/skills/usability-test-plan ~/.claude/skills/
