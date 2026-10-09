@@ -1,0 +1,10 @@
+{
+  "name": "ux-research-skills",
+  "version": "1.0.0",
+  "description": "Eighteen Claude Code skills for UX research, one per job: research plans, screeners, stakeholder and user interviews, jobs to be done, personas, journey maps, card sorts, usability test plans and analysis, surveys, analytics, accessibility research, diary studies, AI browser walkthroughs and synthetic users (always labelled as not evidence), and readouts.",
+  "author": { "name": "Miguel Clavel", "url": "https://github.com/miguelclavel" },
+  "homepage": "https://github.com/miguelclavel/ux-research-skills",
+  "repository": "https://github.com/miguelclavel/ux-research-skills",
+  "license": "MIT",
+  "keywords": ["ux-research", "user-research", "usability-testing", "personas", "journey-map", "survey", "product-design", "skills"]
+}
