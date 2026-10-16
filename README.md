@@ -4,6 +4,8 @@ Eighteen Claude Code skills for UX research, one per job: from planning a study 
 
 By [Miguel Clavel](https://github.com/miguelclavel), Senior Product Designer. Sister repo to [claude-skills-for-designers](https://github.com/miguelclavel/claude-skills-for-designers).
 
+**Looking for a skill? [See all 28 by job](https://github.com/miguelclavel/claude-skills-for-designers/blob/main/SKILLS.md)**, these eighteen and the ten design skills together.
+
 ## Plan
 
 | Skill | What it does |
